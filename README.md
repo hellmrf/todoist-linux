@@ -14,6 +14,12 @@ This app works with both Windows and Linux.
 
 </h5>
 
+## Project is Archived
+
+I don't have time to support it anymore plus Todoist guys released an official Linux App. Feel free to fork the repo or contact me for any questions.
+
+**Thanks to all the contributors who helped me to support this app. Love you!**
+
 ## Link to Official Linux app
 
 Doist recently released the official app as a snap package. [Visit this page to install the Official Todoist app](https://snapcraft.io/todoist).
@@ -68,6 +74,7 @@ Same config file `.todoist-linux.json` has other options to configure the app:
 - `tray-icon` - tray icon to use. Possible options: `icon.png`, `icon_monochrome.png`, `null` (to hide tray icon completely)
 - `minimize-to-tray` - default is `true`. When window is minimized it goes to the tray.
 - `close-to-tray` - default is `true`. When window is closed the app is minimized to the tray.
+- `start-in-tray` - default is `false`. App is started in tray.
 
 ## Why?
 
